@@ -38,23 +38,23 @@
 # STATISTICAL_ANALYSES 
 
 **1) Descriptive Statistics:**
-- ***Summary Statistics:*** Calculating measures such as mean, median, mode, standard deviation, and range to understand the central tendency and dispersion of data.
-- ***Frequency Distribution:*** Creating histograms or frequency tables to visualize the distribution of data values.
+- **Summary Statistics:** Calculating measures such as mean, median, mode, standard deviation, and range to understand the central tendency and dispersion of data.
+- **Frequency Distribution:** Creating histograms or frequency tables to visualize the distribution of data values.
 
 **2) Data Profiling:**
-- ***Data Profiling:*** Examining the basic characteristics of data, including data types, unique values, missing values, and data patterns.
+- **Data Profiling:** Examining the basic characteristics of data, including data types, unique values, missing values, and data patterns.
 
 **3) Data Cleansing:**
-- **Outlier Detection:*** Identifying and handling outliers using techniques like the Z-score or the IQR (Interquartile Range) method.
-- **Missing Data Imputation:*** Filling in missing data points using methods such as mean imputation, median imputation, or predictive modeling.
+- **Outlier Detection:** Identifying and handling outliers using techniques like the Z-score or the IQR (Interquartile Range) method.
+- **Missing Data Imputation:** Filling in missing data points using methods such as mean imputation, median imputation, or predictive modeling.
 
 **4) Data Validation:**
-- ***Cross-Validation:*** Checking data integrity by verifying relationships between related fields or tables.
-- ***Referential Integrity:*** Ensuring that foreign keys in relational databases reference valid primary keys.
+- **Cross-Validation:** Checking data integrity by verifying relationships between related fields or tables.
+- **Referential Integrity:** Ensuring that foreign keys in relational databases reference valid primary keys.
 
 **5) Data Quality Metrics:**
-- ***Data Quality Score:*** Calculating a composite score based on multiple data quality dimensions (e.g., completeness, accuracy, consistency) to assess overall data quality.
-- ***Error Rate:*** Quantifying the proportion of data records or entries with errors.
+- **Data Quality Score:** Calculating a composite score based on multiple data quality dimensions (e.g., completeness, accuracy, consistency) to assess overall data quality.
+- **Error Rate:** Quantifying the proportion of data records or entries with errors.
 
 **6) Data Profiling Tools:**
 - Using data profiling tools and software that automate the process of analyzing data to identify anomalies, patterns, and issues.
