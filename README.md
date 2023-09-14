@@ -15,31 +15,24 @@
      - Accuracy measures how closely the data reflects the actual or true values. Accurate data is free from errors and mistakes.
 
 **5) Validity:** 
-
     - Validity assesses whether the data conforms to predefined rules and constraints, such as data types, formats, and domain-specific business rules.
 
 **6) Lineage:** 
-
     - Lineage tracks the origin and transformation history of data, ensuring transparency and trust in data sources and transformations.
 
 **7) Increase Activity Level:** 
-
     - This dimension may refer to data activity or usage, highlighting whether the data is actively maintained, updated, or used within an organization.
 
 **8) Currency:** 
-
     - Currency relates to the freshness or recency of data, which is important for making informed decisions.
 
 **9) Precision:** 
-
     - Precision refers to the level of detail or granularity in the data. Precise data provides specific and accurate information.
 
 **10) Accessability:** 
-
     - Accessibility assesses how easily data can be retrieved, queried, and used by authorized users. Accessible data is crucial for timely decision-making and analysis.
 
 **11) Representation:** 
-
     - Representation focuses on how data is structured, formatted, and presented. It ensures that data is organized and displayed in a way that is understandable and usable.
 
 
