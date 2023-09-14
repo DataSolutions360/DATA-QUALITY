@@ -3,37 +3,37 @@
 ![image](https://github.com/DataSolutions360/DATA-QUALITY/assets/8845050/b15ad4d3-75af-41d9-82e4-e4f6fd519e76)
 
 **1) Completeness:** 
-     - This dimension assesses whether all the required data elements are present and accounted for in the dataset. Incomplete data can lead to gaps in information.
+- This dimension assesses whether all the required data elements are present and accounted for in the dataset. Incomplete data can lead to gaps in information.
 
 **2) Consistency:** 
-     - Consistency ensures that data is uniform and follows the same format, standards, and conventions throughout the dataset. Inconsistent data can lead to confusion and errors.
+- Consistency ensures that data is uniform and follows the same format, standards, and conventions throughout the dataset. Inconsistent data can lead to confusion and errors.
 
 **3) Timeliness:** 
-     - Timeliness reflects how up-to-date the data is. Timely data is relevant and current for its intended use, while outdated data can lead to incorrect decisions.
+- Timeliness reflects how up-to-date the data is. Timely data is relevant and current for its intended use, while outdated data can lead to incorrect decisions.
 
 **4) Accuracy:** 
-     - Accuracy measures how closely the data reflects the actual or true values. Accurate data is free from errors and mistakes.
+- Accuracy measures how closely the data reflects the actual or true values. Accurate data is free from errors and mistakes.
 
 **5) Validity:** 
-    - Validity assesses whether the data conforms to predefined rules and constraints, such as data types, formats, and domain-specific business rules.
+- Validity assesses whether the data conforms to predefined rules and constraints, such as data types, formats, and domain-specific business rules.
 
 **6) Lineage:** 
-    - Lineage tracks the origin and transformation history of data, ensuring transparency and trust in data sources and transformations.
+- Lineage tracks the origin and transformation history of data, ensuring transparency and trust in data sources and transformations.
 
 **7) Increase Activity Level:** 
-    - This dimension may refer to data activity or usage, highlighting whether the data is actively maintained, updated, or used within an organization.
+- This dimension may refer to data activity or usage, highlighting whether the data is actively maintained, updated, or used within an organization.
 
 **8) Currency:** 
-    - Currency relates to the freshness or recency of data, which is important for making informed decisions.
+- Currency relates to the freshness or recency of data, which is important for making informed decisions.
 
 **9) Precision:** 
-    - Precision refers to the level of detail or granularity in the data. Precise data provides specific and accurate information.
+- Precision refers to the level of detail or granularity in the data. Precise data provides specific and accurate information.
 
 **10) Accessability:** 
-    - Accessibility assesses how easily data can be retrieved, queried, and used by authorized users. Accessible data is crucial for timely decision-making and analysis.
+- Accessibility assesses how easily data can be retrieved, queried, and used by authorized users. Accessible data is crucial for timely decision-making and analysis.
 
 **11) Representation:** 
-    - Representation focuses on how data is structured, formatted, and presented. It ensures that data is organized and displayed in a way that is understandable and usable.
+- Representation focuses on how data is structured, formatted, and presented. It ensures that data is organized and displayed in a way that is understandable and usable.
 
 
 
