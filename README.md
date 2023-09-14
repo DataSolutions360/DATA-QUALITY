@@ -12,7 +12,6 @@
      - Timeliness reflects how up-to-date the data is. Timely data is relevant and current for its intended use, while outdated data can lead to incorrect decisions.
 
 **4) Accuracy:** 
-
      - Accuracy measures how closely the data reflects the actual or true values. Accurate data is free from errors and mistakes.
 
 **5) Validity:** 
