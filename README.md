@@ -1,3 +1,30 @@
+![image](https://github.com/DataSolutions360/DATA-QUALITY/assets/8845050/b15ad4d3-75af-41d9-82e4-e4f6fd519e76)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # DATA_QUALITY
 
 ## Techniques of Data Quality
