@@ -79,4 +79,4 @@ __13) Data Governance:__ Implement a robust data governance framework that inclu
 
 __14) Data Quality Audits:__ Conduct periodic data quality audits to ensure that data quality remains high over time. This may involve reevaluating data quality metrics and addressing any new issues that arise.
 
-__15) Root Cause ANalysis:__ When data quality issues are identified, perform root cause analysis to determine the underlying causes and implement corrective actions.
+__15) Root Cause Analysis:__ When data quality issues are identified, perform root cause analysis to determine the underlying causes and implement corrective actions.
