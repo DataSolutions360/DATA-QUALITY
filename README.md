@@ -4,6 +4,7 @@
 
 **1) Completeness:** 
      - This dimension assesses whether all the required data elements are present and accounted for in the dataset. Incomplete data can lead to gaps in information.
+
 **2) Consistency:** 
      - Consistency ensures that data is uniform and follows the same format, standards, and conventions throughout the dataset. Inconsistent data can lead to confusion and errors.
 
