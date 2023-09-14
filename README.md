@@ -1,33 +1,45 @@
-![image](https://github.com/DataSolutions360/DATA-QUALITY/assets/8845050/b15ad4d3-75af-41d9-82e4-e4f6fd519e76)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # DATA_QUALITY
 
-## Techniques of Data Quality
+![image](https://github.com/DataSolutions360/DATA-QUALITY/assets/8845050/b15ad4d3-75af-41d9-82e4-e4f6fd519e76)
+
+1) Completeness:
+2) Consistency:
+3) Timeliness:
+4) Accuracy:
+5) Validity:
+6) Lineage:
+7) Increase Activity Level:
+8) Currency:
+9) Precision:
+10) Accessability:
+11) Representation:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Techniques of Data Quality
 
 __1) Data Profiling:__  Data profiling involves examining the structure, content, and metadata of your dataset. It helps identify issues such as missing values, data types, and outliers.
 
