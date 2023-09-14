@@ -2,7 +2,7 @@
 
 ![image](https://github.com/DataSolutions360/DATA-QUALITY/assets/8845050/b15ad4d3-75af-41d9-82e4-e4f6fd519e76)
 
-$${\color{red***1) Completeness:***}$$ This dimension assesses whether all the required data elements are present and accounted for in the dataset. Incomplete data can lead to gaps in information.
+$\color{red}{***1) Completeness:***}$ This dimension assesses whether all the required data elements are present and accounted for in the dataset. Incomplete data can lead to gaps in information.
 
 ***2) Consistency:*** Consistency ensures that data is uniform and follows the same format, standards, and conventions throughout the dataset. Inconsistent data can lead to confusion and errors.
 
