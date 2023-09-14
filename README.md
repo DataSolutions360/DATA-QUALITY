@@ -46,7 +46,7 @@
 
 **3) Data Cleansing:**
 - ***Outlier Detection:*** Identifying and handling outliers using techniques like the Z-score or the IQR (Interquartile Range) method.
-- ***Missing Data Imputation:*** Filling in missing data points using methods such as mean imputation, median imputation, or predictive modeling.
+- *** Missing Data Imputation:*** Filling in missing data points using methods such as mean imputation, median imputation, or predictive modeling.
 
 **4) Data Validation:**
 - ***Cross-Validation:*** Checking data integrity by verifying relationships between related fields or tables.
