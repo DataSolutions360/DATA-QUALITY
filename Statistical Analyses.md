@@ -1,4 +1,4 @@
-# 1) Descriptive Statistics:#
+## 1) Descriptive Statistics:
 
 - Summary Statistics: Calculating measures such as mean, median, mode, standard deviation, and range to understand the central tendency and dispersion of data.
 - Frequency Distribution: Creating histograms or frequency tables to visualize the distribution of data values.
