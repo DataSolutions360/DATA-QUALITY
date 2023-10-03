@@ -3,6 +3,16 @@
 - Summary Statistics: Calculating measures such as mean, median, mode, standard deviation, and range to understand the central tendency and dispersion of data.
 - Frequency Distribution: Creating histograms or frequency tables to visualize the distribution of data values.
 
+  - NUMERICAL DATA:
+    - T-test = Comparing means of 2 groups, when population SD is NOT KNOWN (n<30)...better for smaller samples
+        - When to use t-test:
+          -  Population S.D. is unknown
+          -  Small Sample SIze
+          -  Testing for Sample Mean(you test a hypothesis related to the sample mean, such as monpasing means between 2 or more groups or testing the diff bt  a sample mean and hypothesized pop mean)
+          -  Data Distribution Assumption(assuming the data follows approximate NORMAL DISTRIBUTION or that the Central Limit Theorem holds = as sample size increases, the data normalizes)   
+    - Z-score =   
+    - ANOVA = comparing multiple means    
+
 ## 2) Data Profiling:
 
 - Data Profiling: Examining the basic characteristics of data, including data types, unique values, missing values, and data patterns.
