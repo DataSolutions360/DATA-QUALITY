@@ -6,10 +6,10 @@
   - NUMERICAL DATA:
     - T-test = Comparing means of 2 groups, when population SD is NOT KNOWN (n<30)...better for smaller samples
         - When to use t-test:
-          -  Population S.D. is UNKNOWN
-          -  Small Sample Size
-          -  Testing for Sample Mean(you test a hypothesis related to the sample mean, such as monpasing means between 2 or more groups or testing the diff bt  a sample mean and hypothesized pop mean)
-          -  Data Distribution Assumption(assuming the data follows approximate NORMAL DISTRIBUTION or that the Central Limit Theorem holds = as sample size increases, the data normalizes)   
+            -  Population S.D. is UNKNOWN
+            -  Small Sample Size
+            -  Testing for Sample Mean(you test a hypothesis related to the sample mean, such as monpasing means between 2 or more groups or testing the diff bt  a sample mean and hypothesized pop mean)
+            -  Data Distribution Assumption(assuming the data follows approximate NORMAL DISTRIBUTION or that the Central Limit Theorem holds = as sample size increases, the data normalizes)   
     - Z-score = Comparing means of 2 groups, when population SD is NOT KNOWN (n<30)...better for smaller samples
         -  When to use Z-score:
             -  Population S.D is KNOWN
