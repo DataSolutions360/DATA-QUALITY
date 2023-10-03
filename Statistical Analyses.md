@@ -16,14 +16,20 @@
             -  Large Sample Size
             -  Data Follows a Normal Distribution
     - ANOVA = comparing multiple means
+        # -  When to use ANOVAs:
+            -  Comparing Means of Multiple Groups
+            -  
+      
     - Correlation Analysis
     - Regression Analysis
 
   - CATEGORICAL DATA:
     - Chi-Square test = used to determine if there is a significant association between 2 categorical variables.
         - Goodness of Fit test = When you want to compare the observed distribution of a single categorical variable to an expected distribution.  i.e. testing if the observed distribution of blood types in a population matches the expected distribution based on genetics.
-    - Contingency Tables =
-    -  Logistical Regression = 
+    - Contingency Tables = Also known as CROSS TABULATION or TWO-WAY TABLE(summarizes the counts and frequencies of 2 CATEGORICAL VARIABLES)
+    -  Logistical Regression = Used when the outcomes are binary(dichotomous outcomes) and procuded the PROBABILITY of an outcome as prediction analysis.  If outcome has MORE THAN 2 CLASSES:  Multinomial regression or Ordinal Logistic Regression can be used.
+
+  -  Time-Series 
 
 ## 2) Data Profiling:
 
