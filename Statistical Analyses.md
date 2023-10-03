@@ -6,12 +6,24 @@
   - NUMERICAL DATA:
     - T-test = Comparing means of 2 groups, when population SD is NOT KNOWN (n<30)...better for smaller samples
         - When to use t-test:
-          -  Population S.D. is unknown
-          -  Small Sample SIze
+          -  Population S.D. is UNKNOWN
+          -  Small Sample Size
           -  Testing for Sample Mean(you test a hypothesis related to the sample mean, such as monpasing means between 2 or more groups or testing the diff bt  a sample mean and hypothesized pop mean)
           -  Data Distribution Assumption(assuming the data follows approximate NORMAL DISTRIBUTION or that the Central Limit Theorem holds = as sample size increases, the data normalizes)   
-    - Z-score =   
-    - ANOVA = comparing multiple means    
+    - Z-score = Comparing means of 2 groups, when population SD is NOT KNOWN (n<30)...better for smaller samples
+        -  When to use Z-score:
+          -  Population S.D is KNOWN
+          -  Large Sample Size
+          -  Data Follows a Normal Distribution
+    - ANOVA = comparing multiple means
+    - Correlation Analysis
+    - Regression Analysis
+
+  - CATEGORICAL DATA:
+    - Chi-Square test = used to determine if there is a significant association between 2 categorical variables.
+        - Goodness of Fit test = When you want to compare the observed distribution of a single categorical variable to an expected distribution.  i.e. testing if the observed distribution of blood types in a population matches the expected distribution based on genetics.
+    - Contingency Tables =
+    -  Logistical Regression = 
 
 ## 2) Data Profiling:
 
