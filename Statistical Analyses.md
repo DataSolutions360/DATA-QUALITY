@@ -12,9 +12,9 @@
           -  Data Distribution Assumption(assuming the data follows approximate NORMAL DISTRIBUTION or that the Central Limit Theorem holds = as sample size increases, the data normalizes)   
     - Z-score = Comparing means of 2 groups, when population SD is NOT KNOWN (n<30)...better for smaller samples
         -  When to use Z-score:
-          -  Population S.D is KNOWN
-          -  Large Sample Size
-          -  Data Follows a Normal Distribution
+            -  Population S.D is KNOWN
+            -  Large Sample Size
+            -  Data Follows a Normal Distribution
     - ANOVA = comparing multiple means
     - Correlation Analysis
     - Regression Analysis
